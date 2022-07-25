@@ -1,0 +1,120 @@
+input/1.txt
+Ad sales boost Time Warner profitThe firm, which is now one of the biggest investors in Google, benefited from sales of high-speed internet connections and higher advert sales.However, the company said AOL's underlying profit before exceptional items rose 8% on the back of stronger internet advertising revenues."Our financial performance was strong, meeting or exceeding all of our full-year objectives and greatly enhancing our flexibility," chairman and chief executive Richard Parsons said.It will now book the sale of its stake in AOL Europe as a loss on the value of that stake.
+585 , 91 , 0.06220054626464844
+
+input/2.txt
+But, in virtue of what is it the case that you and that younger person are one and the same individual?The BodyIf that is correct, then sameness of body is not what grounds sameness of person; for in that case, it would turn out that Day Man and Night Man were really just one person and not two (since they share the same body).Imagine also that the actual body of Pope Francis woke up in the Vatican this morning and continued with business as usual, doing pope things.You cannot both be the pope (how could one person be in two places at once?).
+548 , 103 , 0.18939852714538574
+
+input/3.txt
+"For any cultural output to thrive there needs to be some kind of state input to that as well," he said.We already have the opera receiving huge grants and it would clearly be beneficial for diversity in music to have the same opportunities in other areas of the music.Franz Ferdinand, Travis and Snow Patrol are just recent examples of the success Scottish music can have in the world, so we should do what we Scots are good at and support our own goods!However, I do feel this should be the extent of their role, to provide the conditions for the talent to flourish and let it go from there.The solution Mr Kapranos should pursue would be privately-funded organizations, like Save the Music in the US.
+703 , 125 , 0.4357261657714844
+
+input/4.txt
+Had not heard it for a while.It's alright for a pop song - but the best song of the last 25 years??There is no way on earth that song should have been voted the best of the last 25 years....it's a travesty.Angels is a great song, but not the best song of the last 25 years.But it is no way the best song of the past 25 years!
+325 , 68 , 8.301628589630127
+
+input/5.txt
+Her victory has reignited the debate about what urban music is.And so what of "Urban" music?If we just let the music speak for itself and not judge the success of an artist by the number of awards won, then maybe we can enjoy the music for what it is, rather than what it represents.Ignore the labels, it is what it is, just music.All this "urban" and other such categorisation is just the red-tape of the music business and is best ignored.
+441 , 81 , 2.4068124294281006
+
+input/6.txt
+So the question is..Are we truly alone?So the question 'Are we truly alone?'Standing alone for something you believe in is not 'being alone'.Our destinations will be different, but the journey that we embark upon is not one we take alone.We cannot be.
+251 , 42 , 0.16181015968322754
+
+input/7.txt
+The perpetuation of the perceived terrorist threat is not because of what the 'alleged' terrorists are doing, but from our own government.It is Frederick Forsyth who is the extremist, because he does not appreciate the need for balance.If the government can hold 'suspects' without charge or trial, what's next?The governments approach is totally against the spirit of British democracy.The people who Mr Forsyth labels the new "threat" are those who do not follow the correct teachings of Islam.
+496 , 78 , 13.983372449874878
+
+input/8.txt
+The minimum wage will rise in October, benefiting more than 1m people, the government has announced.This is definitely the right step in the right direction.Although we pay above the minimum level we will have to increase our pay rates to maintain the differential.It is very good that the government has decided to increase the minimum wage - this should hopefully motivate people to undertake the "lower status" jobs.I don't believe in the minimum wage at all!
+462 , 76 , 4.254921913146973
+
+input/9.txt
+Blunkett hints at election callEx-Home Secretary David Blunkett has given fresh clues that the general election will be announced on Monday.He told BBC Radio Five Live: "I'm out in my constituency getting ready for what we presume will be an announcement very shortly at the weekend."He clarified that he meant he would be in his Sheffield seat this weekend, not that he expected an election call then.Tony Blair is tipped to ask the Queen on Monday to dissolve Parliament ready for a 5 May poll.
+496 , 85 , 0.005986690521240234
+
+input/10.txt
+Any household hooked up to Sky could soon be using smartcards in conjunction with their set-top boxes.Broadcasters aiming content at children could offer smartcards which gives membership to exclusive content and clubs.Senior consultants from EDS, the computer firm which manage the system, and Microsoft, which supplied the software, were running around trying to figure out what had to be done to fix it all, while staff resorted to phone, fax and probably carrier pigeon to get work done.Fortunately the back-office systems which actually pay people their money were still working, so only new claims and updates were affected done properly.So why did not the prime minister's official spokesman mention it at any lobby briefings before Friday?
+747 , 116 , 0.20190954208374023
+
+input/1.txt
+Ad sales boost Time Warner profitThe firm, which is now one of the biggest investors in Google, benefited from sales of high-speed internet connections and higher advert sales.However, the company said AOL's underlying profit before exceptional items rose 8% on the back of stronger internet advertising revenues."Our financial performance was strong, meeting or exceeding all of our full-year objectives and greatly enhancing our flexibility," chairman and chief executive Richard Parsons said.It will now book the sale of its stake in AOL Europe as a loss on the value of that stake.
+585 , 91 , 0.09372758865356445
+
+input/2.txt
+But, in virtue of what is it the case that you and that younger person are one and the same individual?The BodyIf that is correct, then sameness of body is not what grounds sameness of person; for in that case, it would turn out that Day Man and Night Man were really just one person and not two (since they share the same body).Imagine also that the actual body of Pope Francis woke up in the Vatican this morning and continued with business as usual, doing pope things.You cannot both be the pope (how could one person be in two places at once?).
+548 , 103 , 0.23431968688964844
+
+input/3.txt
+"For any cultural output to thrive there needs to be some kind of state input to that as well," he said.We already have the opera receiving huge grants and it would clearly be beneficial for diversity in music to have the same opportunities in other areas of the music.Franz Ferdinand, Travis and Snow Patrol are just recent examples of the success Scottish music can have in the world, so we should do what we Scots are good at and support our own goods!However, I do feel this should be the extent of their role, to provide the conditions for the talent to flourish and let it go from there.The solution Mr Kapranos should pursue would be privately-funded organizations, like Save the Music in the US.
+703 , 125 , 0.5155034065246582
+
+input/4.txt
+Had not heard it for a while.It's alright for a pop song - but the best song of the last 25 years??There is no way on earth that song should have been voted the best of the last 25 years....it's a travesty.Angels is a great song, but not the best song of the last 25 years.But it is no way the best song of the past 25 years!
+325 , 68 , 12.396615505218506
+
+input/5.txt
+Her victory has reignited the debate about what urban music is.And so what of "Urban" music?If we just let the music speak for itself and not judge the success of an artist by the number of awards won, then maybe we can enjoy the music for what it is, rather than what it represents.Ignore the labels, it is what it is, just music.All this "urban" and other such categorisation is just the red-tape of the music business and is best ignored.
+441 , 81 , 4.042011976242065
+
+input/6.txt
+So the question is..Are we truly alone?So the question 'Are we truly alone?'Standing alone for something you believe in is not 'being alone'.Our destinations will be different, but the journey that we embark upon is not one we take alone.We cannot be.
+251 , 42 , 0.24994182586669922
+
+input/7.txt
+The perpetuation of the perceived terrorist threat is not because of what the 'alleged' terrorists are doing, but from our own government.It is Frederick Forsyth who is the extremist, because he does not appreciate the need for balance.If the government can hold 'suspects' without charge or trial, what's next?The governments approach is totally against the spirit of British democracy.The people who Mr Forsyth labels the new "threat" are those who do not follow the correct teachings of Islam.
+496 , 78 , 18.78099036216736
+
+input/8.txt
+The minimum wage will rise in October, benefiting more than 1m people, the government has announced.This is definitely the right step in the right direction.Although we pay above the minimum level we will have to increase our pay rates to maintain the differential.It is very good that the government has decided to increase the minimum wage - this should hopefully motivate people to undertake the "lower status" jobs.I don't believe in the minimum wage at all!
+462 , 76 , 5.261845111846924
+
+input/9.txt
+Blunkett hints at election callEx-Home Secretary David Blunkett has given fresh clues that the general election will be announced on Monday.He told BBC Radio Five Live: "I'm out in my constituency getting ready for what we presume will be an announcement very shortly at the weekend."He clarified that he meant he would be in his Sheffield seat this weekend, not that he expected an election call then.Tony Blair is tipped to ask the Queen on Monday to dissolve Parliament ready for a 5 May poll.
+496 , 85 , 0.0
+
+input/10.txt
+Any household hooked up to Sky could soon be using smartcards in conjunction with their set-top boxes.Broadcasters aiming content at children could offer smartcards which gives membership to exclusive content and clubs.Senior consultants from EDS, the computer firm which manage the system, and Microsoft, which supplied the software, were running around trying to figure out what had to be done to fix it all, while staff resorted to phone, fax and probably carrier pigeon to get work done.Fortunately the back-office systems which actually pay people their money were still working, so only new claims and updates were affected done properly.So why did not the prime minister's official spokesman mention it at any lobby briefings before Friday?
+747 , 116 , 0.34366798400878906
+
+input/1.txt
+Ad sales boost Time Warner profitThe firm, which is now one of the biggest investors in Google, benefited from sales of high-speed internet connections and higher advert sales.However, the company said AOL's underlying profit before exceptional items rose 8% on the back of stronger internet advertising revenues."Our financial performance was strong, meeting or exceeding all of our full-year objectives and greatly enhancing our flexibility," chairman and chief executive Richard Parsons said.It will now book the sale of its stake in AOL Europe as a loss on the value of that stake.
+585 , 91 , 0.15625572204589844
+
+input/2.txt
+But, in virtue of what is it the case that you and that younger person are one and the same individual?The BodyIf that is correct, then sameness of body is not what grounds sameness of person; for in that case, it would turn out that Day Man and Night Man were really just one person and not two (since they share the same body).Imagine also that the actual body of Pope Francis woke up in the Vatican this morning and continued with business as usual, doing pope things.You cannot both be the pope (how could one person be in two places at once?).
+548 , 103 , 0.1562058925628662
+
+input/3.txt
+"For any cultural output to thrive there needs to be some kind of state input to that as well," he said.We already have the opera receiving huge grants and it would clearly be beneficial for diversity in music to have the same opportunities in other areas of the music.Franz Ferdinand, Travis and Snow Patrol are just recent examples of the success Scottish music can have in the world, so we should do what we Scots are good at and support our own goods!However, I do feel this should be the extent of their role, to provide the conditions for the talent to flourish and let it go from there.The solution Mr Kapranos should pursue would be privately-funded organizations, like Save the Music in the US.
+703 , 125 , 0.42178893089294434
+
+input/4.txt
+Had not heard it for a while.It's alright for a pop song - but the best song of the last 25 years??There is no way on earth that song should have been voted the best of the last 25 years....it's a travesty.Angels is a great song, but not the best song of the last 25 years.But it is no way the best song of the past 25 years!
+325 , 68 , 8.740070343017578
+
+input/5.txt
+Her victory has reignited the debate about what urban music is.And so what of "Urban" music?If we just let the music speak for itself and not judge the success of an artist by the number of awards won, then maybe we can enjoy the music for what it is, rather than what it represents.Ignore the labels, it is what it is, just music.All this "urban" and other such categorisation is just the red-tape of the music business and is best ignored.
+441 , 81 , 2.8035902976989746
+
+input/6.txt
+So the question is..Are we truly alone?So the question 'Are we truly alone?'Standing alone for something you believe in is not 'being alone'.Our destinations will be different, but the journey that we embark upon is not one we take alone.We cannot be.
+251 , 42 , 0.20322108268737793
+
+input/7.txt
+The perpetuation of the perceived terrorist threat is not because of what the 'alleged' terrorists are doing, but from our own government.It is Frederick Forsyth who is the extremist, because he does not appreciate the need for balance.If the government can hold 'suspects' without charge or trial, what's next?The governments approach is totally against the spirit of British democracy.The people who Mr Forsyth labels the new "threat" are those who do not follow the correct teachings of Islam.
+496 , 78 , 14.512820482254028
+
+input/8.txt
+The minimum wage will rise in October, benefiting more than 1m people, the government has announced.This is definitely the right step in the right direction.Although we pay above the minimum level we will have to increase our pay rates to maintain the differential.It is very good that the government has decided to increase the minimum wage - this should hopefully motivate people to undertake the "lower status" jobs.I don't believe in the minimum wage at all!
+462 , 76 , 4.9459757804870605
+
+input/9.txt
+Blunkett hints at election callEx-Home Secretary David Blunkett has given fresh clues that the general election will be announced on Monday.He told BBC Radio Five Live: "I'm out in my constituency getting ready for what we presume will be an announcement very shortly at the weekend."He clarified that he meant he would be in his Sheffield seat this weekend, not that he expected an election call then.Tony Blair is tipped to ask the Queen on Monday to dissolve Parliament ready for a 5 May poll.
+496 , 85 , 0.009799718856811523
+
+input/10.txt
+Any household hooked up to Sky could soon be using smartcards in conjunction with their set-top boxes.Broadcasters aiming content at children could offer smartcards which gives membership to exclusive content and clubs.Senior consultants from EDS, the computer firm which manage the system, and Microsoft, which supplied the software, were running around trying to figure out what had to be done to fix it all, while staff resorted to phone, fax and probably carrier pigeon to get work done.Fortunately the back-office systems which actually pay people their money were still working, so only new claims and updates were affected done properly.So why did not the prime minister's official spokesman mention it at any lobby briefings before Friday?
+747 , 116 , 0.19913148880004883
+

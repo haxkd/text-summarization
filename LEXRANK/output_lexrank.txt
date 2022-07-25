@@ -1,0 +1,80 @@
+input/1.txt
+TimeWarner said fourth quarter sales rose 2% to $11.1bn from $10.9bn.TimeWarner also has to restate 2000 and 2003 results following a probe by the US Securities Exchange Commission (SEC), which is close to concluding.Time Warner's fourth quarter profits were slightly better than analysts' expectations.For the full-year, TimeWarner posted a profit of $3.36bn, up 27% from its 2003 performance, while revenues grew 6.4% to $42.09bn.It intends to adjust the way it accounts for a deal with German music publisher Bertelsmann's purchase of a stake in AOL Europe, which it had reported as advertising revenue.
+606 , 93 , 0.4590935707092285
+
+input/2.txt
+But, in virtue of what is it the case that you and that younger person are one and the same individual?But, mere sameness of body over time does not seem to be enough to ground the continued existence of a person.1 For, if that were the case, then a brain-dead body in a persistent vegetative state (entirely lacking consciousness) would still be the same person as the one who once talked and thought and laughed with others.If that is correct, then sameness of body is not what grounds sameness of person; for in that case, it would turn out that Day Man and Night Man were really just one person and not two (since they share the same body).And yet, it seems that we can know whether or not someone in the present moment is the same person as some earlier one.Might this be because the man in the Vatican has the same body and psychology as the man elected to the papacy, while your body has only his psychology?
+915 , 170 , 0.38239550590515137
+
+input/3.txt
+"I think the role of musicians is to question politicians rather than to go to bed with them," he said.Franz Ferdinand must be paying serious amounts of tax on their record sales - if they'd had a government grant to get started they'd have more than paid it back by now, so the Treasury would be making far more than it paid out.The government shouldn't "fund" music - it should "invest" in music and those investments should be treated like any other investment.I do agree that the government should help to fund music but there is also a responsibility held by record companies!There is a great deal of money generated through pop music - perhaps a tax on pop could be ploughed into the public performance of other forms of music for everyone to enjoy.
+755 , 135 , 0.5331635475158691
+
+input/4.txt
+I am a regular listener to Radio 2 but I don't recall the invitation to vote for this bland, slushy rubbish which might appeal to the masses who wouldn't know a good song if it jumped up and bit them on the nose but is certainly NOT the best song of the last 25 years.I think Angels is a great song and deserved to be in the run up for this award but I don't think its the best song from the past 25 years!It's 'orrible.No, Because I'm not female and I'm not 10!Although Angels is a good song I think that anyone with the slightest musical taste will realise that this is not the best song of the last 25 years.
+611 , 122 , 4.196401119232178
+
+input/5.txt
+I don't feel like urban music's just been celebrated by [Joss Stone] winning or her being nominated, or by the Brits acknowledging that there's an urban music scene because it's all a kick in the teeth at the end of the day.If Joss Stone is the closest thing that they feel comfortable championing because of what she looks like and how she sounds and who she's signed to, then so be it.If we just let the music speak for itself and not judge the success of an artist by the number of awards won, then maybe we can enjoy the music for what it is, rather than what it represents.Joss Stone deserved to win an award for her talents, but I don't think it was very 'urban' of her to sing angels with Robbie Williams.Urban is a nonsense term - music of black origin?
+761 , 144 , 1.7592320442199707
+
+input/6.txt
+An individual can feel 'alone' in a vast sea of people.We seem to have waged a war on each other, while completely ignoring every other element of life.The act of standing up for what you want gives a person a unique perspective that can co-relate with another's view point or it may not.So are we really alone, or is it society that has labelled us as being alone?We cannot be.
+378 , 70 , 0.35344600677490234
+
+input/7.txt
+So what?The threat now is new.It is to you and I.We must not forget we are at war.Our laws are such that you cannot just be imprisoned at the whim of our police forces, you have to be shown to be deserving of it.
+212 , 44 , 6.317063570022583
+
+input/8.txt
+This was only 2 years ago and I was getting paid £2.75 an hour, and working as hard as any of the older staff, maybe it's about time 16 - 21 year olds got a fair wage!I hope that if industry and business have to pay this new rate that Mr Blair and Mr Brown will increase tax allowances and raise national insurance thresholds so that the treasury won't take some of this increase off the people they say they are helping, or is this just another form of stealth tax on business through the back door?As a graduate working for minimum wage, I welcome any increase of pay I can get.I have my GCSE's A-Levels and A degree and have chosen to work for a small business that can't afford the wages I should be getting, I should be on at least 3x what I'm getting but they can't afford it.In answer to Emma from Sleaford regarding no one really wins in the end... on the contrary Mr Blair wins - he wins because he obviously has announced this to be a vote winner and his treasury wins because as an employer you will know that the amount of tax and national insurance that the government will receive from all the minimum wage increases will rise and of course not only will be paying out higher wages but as an employer higher Employer NI Contributions as well.
+1256 , 238 , 2.664803981781006
+
+input/9.txt
+Blunkett hints at election callEx-Home Secretary David Blunkett has given fresh clues that the general election will be announced on Monday.He told BBC Radio Five Live: "I'm out in my constituency getting ready for what we presume will be an announcement very shortly at the weekend."He clarified that he meant he would be in his Sheffield seat this weekend, not that he expected an election call then.Tony Blair is tipped to ask the Queen on Monday to dissolve Parliament ready for a 5 May poll.
+496 , 85 , 0.05890488624572754
+
+input/10.txt
+Viewers could soon be rewarded for watching TV as loyalty cards come to a screen near you.Loyalty cards could play a role in this, particularly in reducing the number of people who cancel their Sky subscriptions, said Ian Fogg, an analyst with Jupiter Research.A major government department is without e-mail for a week, and technology analyst Bill Thompson wants to know what happened.Senior consultants from EDS, the computer firm which manage the system, and Microsoft, which supplied the software, were running around trying to figure out what had to be done to fix it all, while staff resorted to phone, fax and probably carrier pigeon to get work done.Why was not the pensions minister in Parliament to make an emergency statement on Tuesday, when it was clear that there was a serious problem?
+800 , 133 , 0.5691032409667969
+
+input/1.txt
+TimeWarner said fourth quarter sales rose 2% to $11.1bn from $10.9bn.TimeWarner also has to restate 2000 and 2003 results following a probe by the US Securities Exchange Commission (SEC), which is close to concluding.Time Warner's fourth quarter profits were slightly better than analysts' expectations.For the full-year, TimeWarner posted a profit of $3.36bn, up 27% from its 2003 performance, while revenues grew 6.4% to $42.09bn.It intends to adjust the way it accounts for a deal with German music publisher Bertelsmann's purchase of a stake in AOL Europe, which it had reported as advertising revenue.
+606 , 93 , 0.19222640991210938
+
+input/2.txt
+But, in virtue of what is it the case that you and that younger person are one and the same individual?But, mere sameness of body over time does not seem to be enough to ground the continued existence of a person.1 For, if that were the case, then a brain-dead body in a persistent vegetative state (entirely lacking consciousness) would still be the same person as the one who once talked and thought and laughed with others.If that is correct, then sameness of body is not what grounds sameness of person; for in that case, it would turn out that Day Man and Night Man were really just one person and not two (since they share the same body).And yet, it seems that we can know whether or not someone in the present moment is the same person as some earlier one.Might this be because the man in the Vatican has the same body and psychology as the man elected to the papacy, while your body has only his psychology?
+915 , 170 , 0.23098373413085938
+
+input/3.txt
+"I think the role of musicians is to question politicians rather than to go to bed with them," he said.Franz Ferdinand must be paying serious amounts of tax on their record sales - if they'd had a government grant to get started they'd have more than paid it back by now, so the Treasury would be making far more than it paid out.The government shouldn't "fund" music - it should "invest" in music and those investments should be treated like any other investment.I do agree that the government should help to fund music but there is also a responsibility held by record companies!There is a great deal of money generated through pop music - perhaps a tax on pop could be ploughed into the public performance of other forms of music for everyone to enjoy.
+755 , 135 , 0.28020453453063965
+
+input/4.txt
+I am a regular listener to Radio 2 but I don't recall the invitation to vote for this bland, slushy rubbish which might appeal to the masses who wouldn't know a good song if it jumped up and bit them on the nose but is certainly NOT the best song of the last 25 years.I think Angels is a great song and deserved to be in the run up for this award but I don't think its the best song from the past 25 years!It's 'orrible.No, Because I'm not female and I'm not 10!Although Angels is a good song I think that anyone with the slightest musical taste will realise that this is not the best song of the last 25 years.
+611 , 122 , 2.4149017333984375
+
+input/5.txt
+I don't feel like urban music's just been celebrated by [Joss Stone] winning or her being nominated, or by the Brits acknowledging that there's an urban music scene because it's all a kick in the teeth at the end of the day.If Joss Stone is the closest thing that they feel comfortable championing because of what she looks like and how she sounds and who she's signed to, then so be it.If we just let the music speak for itself and not judge the success of an artist by the number of awards won, then maybe we can enjoy the music for what it is, rather than what it represents.Joss Stone deserved to win an award for her talents, but I don't think it was very 'urban' of her to sing angels with Robbie Williams.Urban is a nonsense term - music of black origin?
+761 , 144 , 0.9502701759338379
+
+input/6.txt
+An individual can feel 'alone' in a vast sea of people.We seem to have waged a war on each other, while completely ignoring every other element of life.The act of standing up for what you want gives a person a unique perspective that can co-relate with another's view point or it may not.So are we really alone, or is it society that has labelled us as being alone?We cannot be.
+378 , 70 , 0.22019577026367188
+
+input/7.txt
+So what?The threat now is new.It is to you and I.We must not forget we are at war.Our laws are such that you cannot just be imprisoned at the whim of our police forces, you have to be shown to be deserving of it.
+212 , 44 , 2.9968228340148926
+
+input/8.txt
+This was only 2 years ago and I was getting paid £2.75 an hour, and working as hard as any of the older staff, maybe it's about time 16 - 21 year olds got a fair wage!I hope that if industry and business have to pay this new rate that Mr Blair and Mr Brown will increase tax allowances and raise national insurance thresholds so that the treasury won't take some of this increase off the people they say they are helping, or is this just another form of stealth tax on business through the back door?As a graduate working for minimum wage, I welcome any increase of pay I can get.I have my GCSE's A-Levels and A degree and have chosen to work for a small business that can't afford the wages I should be getting, I should be on at least 3x what I'm getting but they can't afford it.In answer to Emma from Sleaford regarding no one really wins in the end... on the contrary Mr Blair wins - he wins because he obviously has announced this to be a vote winner and his treasury wins because as an employer you will know that the amount of tax and national insurance that the government will receive from all the minimum wage increases will rise and of course not only will be paying out higher wages but as an employer higher Employer NI Contributions as well.
+1256 , 238 , 1.5179591178894043
+
+input/9.txt
+Blunkett hints at election callEx-Home Secretary David Blunkett has given fresh clues that the general election will be announced on Monday.He told BBC Radio Five Live: "I'm out in my constituency getting ready for what we presume will be an announcement very shortly at the weekend."He clarified that he meant he would be in his Sheffield seat this weekend, not that he expected an election call then.Tony Blair is tipped to ask the Queen on Monday to dissolve Parliament ready for a 5 May poll.
+496 , 85 , 0.02792668342590332
+
+input/10.txt
+Viewers could soon be rewarded for watching TV as loyalty cards come to a screen near you.Loyalty cards could play a role in this, particularly in reducing the number of people who cancel their Sky subscriptions, said Ian Fogg, an analyst with Jupiter Research.A major government department is without e-mail for a week, and technology analyst Bill Thompson wants to know what happened.Senior consultants from EDS, the computer firm which manage the system, and Microsoft, which supplied the software, were running around trying to figure out what had to be done to fix it all, while staff resorted to phone, fax and probably carrier pigeon to get work done.Why was not the pensions minister in Parliament to make an emergency statement on Tuesday, when it was clear that there was a serious problem?
+800 , 133 , 0.27341556549072266
+

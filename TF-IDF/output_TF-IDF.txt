@@ -1,0 +1,40 @@
+input/1.txt
+ But its own internet business, AOL, had has mixed fortunes. It lost 464,000 subscribers in the fourth quarter profits were lower than in the preceding three quarters. It will now book the sale of its stake in AOL Europe as a loss on the value of that stake.
+258 , 48 , 0.18603825569152832
+
+input/2.txt
+ IntroductionYou are a person. Presumably, you used to be a younger person. But, in virtue of what is it the case that you and that younger person are one and the same individual? Since souls are immaterial, we cannot see or touch or smell them. Souls, if they exist, are completely undetectable by the senses. You do not greet your friends and say, “But, how can I know whether or not you are really my friend? Now you both have the pope’s psychology, so apparently you are both Pope Francis. Meanwhile, your body is merely an imposter pope.
+542 , 98 , 0.20867466926574707
+
+input/3.txt
+ He warned musicians against being allied to a particular party, however. "I don't know if having tea with politicians is always a good idea. "We say 'I like this'. "It's going to be great to go down but I have actually had to exercise part of my brain tonight. The answer is most definitely no. The equipment is not cheap and can be well beyond the means of many people.
+371 , 70 , 0.301530122756958
+
+input/4.txt
+ You guys made our dream come true. Will Young won the best single prize for Your Game. The ceremony will be televised on ITV1 on Thursday.I'm speechless. Had not heard it for a while. It's not exactly groundbreaking. Maybe. Who voted it for it to be included in any list? What a Joke! Soppy rubbish at best. People take these awards too seriously! I never get fed up hearing it. The song makes me calm and serene and happy. All credit to Robbie Williams and Guy Chambers. It's 'orrible. What a dreadful result. You are kidding, right? Where on earth did the nominations list come from???? Compiled by an eleven year-old girl perhaps?? I mean, Will Young? !People have such short memories! Not a chance. Granted, it's not too bad, either. or anything from the Stone Roses' first album? Really? No? It's a good all-rounder. Since 1980? I'm confused. If anything it's regressive. Bland even. Sigh. What about Britpop? Much better songs and more timeless.
+952 , 165 , 0.6379961967468262
+
+input/5.txt
+ It's not really relevant. It has to come across as real. Its a stupid phrase, and particularly British. Very strange.What's in a name? A rose by any other name etc... Good on her. How dare she! Jazz was and remains such a massively misunderstood term. ), but no doubt have their connections. Sucks to the cities- it's way better out here. I dont understand the point that Ty is making. We should stop calling a genre meaningless, northing is meaningless. Same thing, with Streets, Amy Winehouse, etc. Who's ever heard of Terri Walker or Rhian Benson.. What if The Streets had won? Would people be whining because Mike Skinner is white... More power to you, people! Its like putting Eminem against Bob Geldof. Well doesn't that include rock? Music made in the inner cities? Simple as that.I play in a heavy metal band. She is talented.
+835 , 146 , 0.5840809345245361
+
+input/6.txt
+ As a race, we are not alone. Even in politics, there is a definite distinction between democrats and republicans, but they are all politicians at the end of the day. This ability of ours should be reason enough to feel a sense of belonging amongst our kind. They will never cease to surprise and are our most trusted sources of knowledge.
+339 , 61 , 0.2825591564178467
+
+input/7.txt
+ Or so says Home Secretary Charles Clarke. My reaction? So what? It is not that I am cynical or just do not care. We were at war. My father wore a uniform for five years. After 1945 we yearned for peace at last. We built shelters that would have sheltered nothing. We spent our treasure on weapons instead of hospitals. We took silly precautions. Some fought it; some marched futilely against it. Some pretended it was not there. By the early seventies it was terrorism as well. That was why the tyrants lost. Civil rights were infringed as little as humanly possible. Informants had to be given immunity from their own crimes to win the bigger battle. Now the threat is Islamic fundamentalism. And without becoming a tyranny. What we really need is more honesty from our security services and our politicians. Remember there were no WMD in Iraq. You cannot compare the threats of past years with now. A Kilo of Semtex will flatten a building, a Kilo of plutonium will flatten a city. Now we are riddled with red tape and be told what we can or cannot do. We have to be politically-correct and we are not allowed to have beliefs or opinions. We are sleep-walking into this. Where will this end. For very little return and maximum alienation. The nature of the current threat is new. The terrorist aim to kill indiscriminately. The best comparison is therefore the blitz, 1941. As a result modern day terrorists are willing to do things their predecessors did not. Who is to decide whom is a suspect? Why should we believe them? What is to stop false denunciations? What of those falsely accused who will lose their careers? Who will support their families? Will their children still go to school? After all, today you may be scared of the same people as those in power but someday those in power may be scared of you! The facts turned out to be very different. They have arrived at their own interpretations and assumptions with regards their actions.
+1951 , 346 , 0.8746228218078613
+
+input/8.txt
+ The losses in tax can be recouped by having a 50pc tax band for people making over £100,000. br /&gt;This is good news. Wages are supposed to be a fair reflection of an employee's efforts. At last we can make a difference to people and reward them for working. Someone has to do these unglamorous jobs and earn enough to live decently. How dare people suggest we are lazy or complacent for accepting these jobs and these wages? It shows that this government cares for the low income earners as well. This is a million votes more. Why have many of the call centre jobs gone to India. I don't mind if it is. My only complaint is the paltry figures being discussed. The unions should be putting the Government under pressure for much more. With our manufacturing industry in serious decline the country cannot be entirely service industries without something tangible to serve. There has to be something at the top of the food chain and that is manufacturing. How then will the government fudge the unemployment figures! 80% of my costs are labour. I now earn a 6 figure salary. I did that through hard work and getting off my backside. These days that £25 would need to be near to £60 to have the equivalent buying power. We all work hard but the money is just not there. These next rises will cost me more. I have to get the money from somewhere so pass it on to customers.
+1373 , 252 , 0.7747812271118164
+
+input/9.txt
+
+0 , 0 , 0.03394508361816406
+
+input/10.txt
+ Now similar schemes look set to enter the highly competitive world of multi-channel TV. "The idea of an intelligent card in boxes offers a lot of possibilities. It will be down to the ingenuity of the content players," said Mr Whalley. Some 7.4 million households have Sky boxes and Sky is hoping to increase this to 10 million by 2010. The interconnectedness that we all value also gives us a degree of instability and unpredictability that we cannot design out of the systems. While EDS and Microsoft will no doubt be looking for technical lessons to learn from their week of pain, we can learn some political lessons too.
+625 , 109 , 0.23463082313537598
+
