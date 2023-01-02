@@ -3,6 +3,13 @@ This project compares the KL-SUM,TF-IDF, Lexrank and LSA algorithms for text sum
 Both these algorithms employ an extractive summarization methodology, i.e. important sentences from the original document are selected and concatenated to form a summary.</br>
 The paper associated with this project was published in the peer-reviewed journal IJCST and can be found here - http://www.ijcstjournal.org/volume-4/issue-3/IJCST-V4I3P63.pdf
 
+# Installation
+1. install python3
+2. pip install -r requirements.txt
+3. run python shell and write these commands
+   import nltk
+   nltk.download('punkt')
+   
 # Implementation 
 The input files have word counts ranging from 500 – 25,000.</br>
 The csv files for both the algorithms contain the word count associated with each text file and the time required for generation of the summary.</br> 
