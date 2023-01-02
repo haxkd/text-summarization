@@ -1,5 +1,5 @@
 # Text-Summarization
-This project compares the Lexrank and LSA algorithms for text summarization.</br>
+This project compares the KL-SUM,TF-IDF, Lexrank and LSA algorithms for text summarization.</br>
 Both these algorithms employ an extractive summarization methodology, i.e. important sentences from the original document are selected and concatenated to form a summary.</br>
 The paper associated with this project was published in the peer-reviewed journal IJCST and can be found here - http://www.ijcstjournal.org/volume-4/issue-3/IJCST-V4I3P63.pdf
 
