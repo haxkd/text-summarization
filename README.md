@@ -7,9 +7,9 @@ The paper associated with this project was published in the peer-reviewed journa
 1. install python3
 2. pip install -r requirements.txt
 3. run python shell and write these commands
--import nltk
--nltk.download('punkt')    
--nltk.download('stopwords')   
+- import nltk
+- nltk.download('punkt')    
+- nltk.download('stopwords')   
 4. Now open each folder and run its desired python file for making summary(of the text files which are in input folder).
 5. at last run comparison files.
 # Implementation 
